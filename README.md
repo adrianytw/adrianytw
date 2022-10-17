@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **adrianytw/adrianytw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 😼 hewwo! i'm adrian!
+### currently a student at Wichita State University :3
+
+im currently working on my web development skills :)
+<!-- 
+## 📫 How to reach me:
+[Discord](https://discord.com/users/173829799293222913)
+
+[![nairda's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianytw&show_icons=true&theme=calm&count_private=true)](#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianytw&langs_count=8&theme=calm&count_private=true)](#) -->
