@@ -17,6 +17,18 @@ Here are some ideas to get you started:
 ### currently a student at Wichita State University :3
 
 im currently working on my web development skills :)
+
+### 😶‍🌫️ whats in my github?
+- [x] personal projects
+- [x] freecodecamp projects
+- [x] some notes
+- [x] tutorials
+- [x] some feature tests
+- [ ] a lot of private repos unfortunately :c
+
+### 📫 how to reach me:
+- [x] discord: [nairda#0079](https://discord.com/users/173829799293222913)
+- [x] email: adrian.ytw@gmail.com
 <!-- 
 ## 📫 How to reach me:
 [Discord](https://discord.com/users/173829799293222913)
