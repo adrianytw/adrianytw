@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 😼 hewwo! i'm adrian!
-### currently a student at Wichita State University :3
+## 😼 hi! i'm adrian!
+### currently a student at wichita wtate university :3
 
 im currently working on my web development skills :)
 
 ### 😶‍🌫️ whats in my github?
 - [x] personal projects
 - [x] freecodecamp projects
-- [x] some notes
-- [x] tutorials
-- [x] some feature tests
+- [x] notes
+- [x] tutorial notes
+- [x] scripts
 - [ ] a lot of private repos unfortunately :c
 
 ### 📫 how to reach me:
