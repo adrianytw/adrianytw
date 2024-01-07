@@ -14,17 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 😼 hi! i'm adrian!
-### currently a student at wichita wtate university :3
+### undergrad at wichita state university!
 
-im currently working on my web development skills :)
+currently working on my web development skills :)
 
 ### 😶‍🌫️ whats in my github?
 - [x] personal projects
-- [x] freecodecamp projects
 - [x] notes
-- [x] tutorial notes
 - [x] scripts
-- [ ] a lot of private repos unfortunately :c
 
 ### 📫 how to reach me:
 - [x] discord: [nairda#0079](https://discord.com/users/173829799293222913)
