@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 ## 😼 hi! i'm adrian!
 ### undergrad at wichita state university!
 
-currently working on my web development skills :)
+currently working on kernel development :)
 
 ### 😶‍🌫️ whats in my github?
+- [x] NASA Spaceapps challenges codebase
 - [x] personal projects
 - [x] notes
 - [x] scripts
@@ -28,8 +29,6 @@ currently working on my web development skills :)
 - [x] email: adrian.ytw@gmail.com
 <!-- 
 ## 📫 How to reach me:
-[Discord](https://discord.com/users/173829799293222913)
-
 [![nairda's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianytw&show_icons=true&theme=calm&count_private=true)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianytw&langs_count=8&theme=calm&count_private=true)](#) -->
