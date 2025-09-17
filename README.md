@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 😼 hi! i'm adrian!
-### software developer at heart!
+### problem solver and software developer at heart!
 
 currently working on kernel development :)
 
