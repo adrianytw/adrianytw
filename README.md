@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 😼 hi! i'm adrian!
-### undergrad at wichita state university!
+### software developer at heart!
 
 currently working on kernel development :)
+
+interests
+- linux kernel
+- web development
+- cybersecurity
+
+graduated from wichita state university
 
 ### 😶‍🌫️ whats in my github?
 - [x] NASA Spaceapps challenges codebase
